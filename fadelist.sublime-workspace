@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comment",
+				"comment_params"
+			],
+			[
+				"pop",
+				"population"
+			],
+			[
+				"se",
+				"sevenperfumes02"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"site",
+				"siteganh"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "jquery.fadelist.js",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rodrigodossantos/Dev/github/fadelist/jquery.fadelist.js",
+		"/Users/rodrigodossantos/Downloads/jQuery.Marquee-master/jquery.marquee.min.js",
+		"/Users/rodrigodossantos/Downloads/buildinternet-totem-326e398/README.md",
+		"/Users/rodrigodossantos/Downloads/buildinternet-totem-326e398/css/style.css",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/controllers/posts_controller.rb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/posts/index.atom.builder",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/layouts/application.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/Gemfile",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/assets/javascripts/application.js",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/assets/stylesheets/application.css",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/controllers/comments_controller.rb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/comments/create.js.erb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/posts/show.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/models/post.rb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/comments/_comment.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/config/routes.rb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/posts/index.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/app/views/posts/_post.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/db/migrate/20131126075841_create_posts.rb",
+		"/Users/rodrigodossantos/Dev/rails/quick_blog/quick_blog",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/week4/hw53.js",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/week4/hw52.js",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/week4/hw54.js",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/Eraseit/netren/index.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/Eraseit/1/index.php",
+		"/Users/rodrigodossantos/Downloads/fixtures.sql",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/Eraseit/2e50/index.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/week4/hw4-3/blog/posts.js",
+		"/Users/rodrigodossantos/Downloads/17-11-2012_17-11-2013.xml",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/node-mongodb-chat/node/client.js",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/newgalabid/public/js/node/server/package.json",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/node-mongodb-chat/node/package.json",
+		"/private/var/folders/n3/4lbt2pn902s9bqpzbtn3_28m0000gn/T/fz3temp-1/mysql.php",
+		"/Users/rodrigodossantos/Downloads/Untitled.sql",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/authors/_book.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/authors/show.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/layouts/application.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/titles/show.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/controllers/authors_controller.rb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/titles/edit.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/titles/_form.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/titles/new.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/authors/edit.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/authors/new.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/authors/_form.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/authors/index.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/models/title.rb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/views/titles/index.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/models/author.rb",
+		"/Users/rodrigodossantos/Dev/rails/book/db/migrate/20131101121656_create_titles.rb",
+		"/Users/rodrigodossantos/Dev/rails/book/db/migrate/20131101120638_create_titles.rb",
+		"/Users/rodrigodossantos/Dev/rails/book/config/routes.rb",
+		"/Users/rodrigodossantos/Dev/rails/book/app/assets/javascripts/application.js",
+		"/Users/rodrigodossantos/Dev/rails/book/vendor/assets/stylesheets/book.css",
+		"/Users/rodrigodossantos/Dev/rails/book/app/assets/stylesheets/application.css",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/comments/_form.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/models/comment.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/bin/rails",
+		"/Users/rodrigodossantos/Dev/rails/blog/db/migrate/20131006101908_create_posts.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/controllers/posts_controller.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/controllers/comments_controller.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/comments/_comment.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/models/post.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/posts/show.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/config/routes.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/posts/index.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/posts/edit.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/posts/new.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/posts/_form.html.erb",
+		"/Users/rodrigodossantos/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/views/welcome/index.html.erb",
+		"/Users/rodrigodossantos/Dev/rails/blog/test/test_helper.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/app/controllers/welcome_controller.rb",
+		"/Users/rodrigodossantos/Dev/rails/blog/blog.sublime-project",
+		"/Users/rodrigodossantos/Dev/Sites/E/easymatrix.ilhaweb.net_VA/ilhaweb/ematrix.sql",
+		"/Users/rodrigodossantos/Dev/Sites/E/ematrix_encript/ilhaweb/inc/config.php",
+		"/Users/rodrigodossantos/Dev/Sites/E/easymatrix.ilhaweb.net_VA/ilhaweb/inc/config.php",
+		"/Users/rodrigodossantos/Dev/ruby/rvm.txt",
+		"/Users/rodrigodossantos/Desktop/vermilian.txt",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/index.php",
+		"/Users/rodrigodossantos/Documents/Ilha Web/LINUX - CPANEL - WHM/import sql file using command line.txt",
+		"/Users/rodrigodossantos/Documents/Ilha Web/LINUX - CPANEL - WHM/how to add an user to mysql.txt",
+		"/Users/rodrigodossantos/Dev/Sites/E/easymatrix.ilhaweb.net_VA/ilhaweb/lib/Ilhaweb/Model/Image.php",
+		"/Users/rodrigodossantos/Dev/Sites/E/easymatrix.ilhaweb.net_VA/produtos_detalhes.php",
+		"/Users/rodrigodossantos/Dev/htdocs/easyimoveis/application/modules/default/views/helpers/Truncate.php",
+		"/Users/rodrigodossantos/Dev/www/mc2/application/modules/default/views/helpers/Cleartext.php",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/dev-local-php54-precise/modules/mysql/manifests/server/config.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/dev-local-php54-precise/manifests/default.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/dev-local-php54-precise/modules/mysql/manifests/config.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/dev-local-php54-precise/modules/mysql/manifests/server.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/dev-local-php54-precise/modules/mysql/README.md",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/dev-local-php54-precise/modules/mysql/files/mysqltuner.pl",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/ematrix.dev/public/.htaccess",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/xhprof/xhprof_lib/config.php",
+		"/Users/rodrigodossantos/Dev/htdocs/rosantoz_moip_magento/app/code/community/Rosantoz/Moip/controllers/PaymentController.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/xhprof/xhprof_html/index.php",
+		"/projector.html",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/precise32/manifests/default.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/precise32_54/manifests/default.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/precise64_php55/manifests/default.pp",
+		"/Users/rodrigodossantos/Dev/vagrant/vms/backyard_precise64/manifests/default.pp",
+		"/Users/rodrigodossantos/Dev/Sites/E/ematrix_encript/ilhaweb/rewriterules.php",
+		"/Users/rodrigodossantos/Dev/Sites/E/ematrix_encript/ilhaweb/inc/mysql.php",
+		"/Users/rodrigodossantos/Dev/Sites/E/ematrix_encript/compras.php",
+		"/private/var/folders/n3/4lbt2pn902s9bqpzbtn3_28m0000gn/T/fz3temp-1/IlhaWebCarreira.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013_copy/README.md",
+		"/Users/rodrigodossantos/Dev/Sites/W/WHMCS/527/whmcs/install/upgrade524.sql",
+		"/Users/rodrigodossantos/Dev/Sites/E/easymatrix.ilhaweb.net_VA/admin/classes/IlhaWebFaturas.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/redpropaganda/app/config/config.php",
+		"/Users/rodrigodossantos/Documents/Cursos/School of Net/Apps Real Time NodeJS/Realtime2/node/mongocon.js",
+		"/Users/rodrigodossantos/Documents/Cursos/School of Net/Apps Real Time NodeJS/Realtime2/node/app.js",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/boletophp/boleto_bb.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/README.md",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/module/Conference/src/Conference/Controller/IndexController.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/module/Conference/src/Conference/Controller/TwitterController.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/module/Conference/Module.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/public/packager.json",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/config/autoload/global.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/config/autoload/local.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/config/autoload/README.md",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/config/application.config.php",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/zendcon2013 copy/composer.json",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/boletophp/include/layout_bb.php",
+		"/Users/rodrigodossantos/Documents/Cursos/School of Net/Apps Real Time NodeJS/Realtime2/node/mongo.js",
+		"/Users/rodrigodossantos/Documents/Cursos/School of Net/Apps Real Time NodeJS/Realtime2/public/_lances.html",
+		"/Users/rodrigodossantos/Documents/Cursos/School of Net/Apps Real Time NodeJS/Realtime2/App/views/index/index.phtml",
+		"/Users/rodrigodossantos/Documents/Cursos/School of Net/Apps Real Time NodeJS/Realtime2/App/views/layout.phtml",
+		"/Users/rodrigodossantos/Dev/vagrant/projects/boletophp/boleto_cef_sigcb.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rodrigodossantos/Dev/vagrant/precise32"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"				city:\"$city\",",
+			"},\n",
+			"popFilter",
+			"author",
+			"books",
+			"http_basic_authenticate_with name: \"rsantos\", password: \"secret\", except: [:index, :show]",
+			"destroy",
+			">\n",
+			"end",
+			"test",
+			"ilh_carreira",
+			"// ",
+			"echo",
+			"num =",
+			"codigo_banco_com_dv",
+			"digitoVerificador_nossonumero",
+			"1",
+			"http://www.clubemarketeiros.com.br",
+			"TYPE=",
+			"`jefferso_acao`.",
+			"template-upload",
+			"xdebug",
+			"conf.d",
+			"mysql/conf.d",
+			"conf.d",
+			"mysqld_safe",
+			"mysql::config_file",
+			"max_connections",
+			"vhost",
+			" \"",
+			"\n$",
+			"translate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www.2e50.stmsat.com",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "jquery.fadelist.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "fadelist.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"commtcon",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"postcontr",
+				"app/controllers/posts_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

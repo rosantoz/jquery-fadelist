@@ -7,9 +7,9 @@ just a X number of items. Then I fade out this items and fade in the next ones, 
 
 Just include the plugin in our site:
 
-```<script src="jquery.fadelist.js"></script>``` 
+```<script src="fadelist.jquery.js"></script>``` 
 or 
-```<script src="jquery.fadelist.min.js"</script>```
+```<script src="fadelist.jquery.min.js"</script>```
 
 **Your HTML code:**
 ``` HTML

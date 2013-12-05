@@ -1,0 +1,31 @@
+{
+    "name": "fadelist",
+    "title": "jQuery Fade List",
+    "description": "jQuery plugin for fade in/out items in a unsorted list.",
+    "keywords": [
+        "fade",
+        "animation",
+        "list"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Rodrigo dos Santos",
+        "url": "http://blog.dossantos.com.au"
+    },
+    "maintainers": [
+        {
+            "name": "Rodrigo dos Santos",
+            "url": "http://blog.dossantos.com.au"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://www.opensource.org/licenses/bsd-license.php"
+        }
+    ],
+   
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}

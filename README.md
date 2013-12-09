@@ -34,4 +34,4 @@ $("#gallery").fadelist({
 });
 ```
 # Demo
-Check out 'demo' folder.
+Check out 'demo' folder or http://jsfiddle.net/rosantoz/wS2R2/2/
